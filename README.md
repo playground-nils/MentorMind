@@ -18,3 +18,4 @@ These are advanced topics that are not necessary for a basic deployment.
 * [Data ingestion](data_ingestion.md)
 * [Productionizing](productionizing.md)
 * [Alternative RAG chat samples](other_samples.md)
+[broken link](./nonexistent_file_for_exploit.md)
